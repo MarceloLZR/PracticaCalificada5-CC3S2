@@ -16,4 +16,10 @@ public class Player {
     public int getBaseHealth() {
         return baseHealth;
     }
+
+    public void setScore(int i) {
+    }
+
+    public void setBaseHealth(int i) {
+    }
 }
